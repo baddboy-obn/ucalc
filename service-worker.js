@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ucalc-vk/precache-manifest.f833f7d3ec3c5e951130aeda13cde0df.js"
+  "/ucalc/precache-manifest.3daefe50a051e41e0cbc9d31157396f7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ucalc-vk/index.html", {
+workbox.routing.registerNavigationRoute("/ucalc/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
