@@ -1,13 +1,13 @@
 {
-  "main.js": "/ucalc/static/js/main.e35e5a6f.chunk.js",
-  "main.js.map": "/ucalc/static/js/main.e35e5a6f.chunk.js.map",
+  "main.js": "/ucalc/static/js/main.1fccf718.chunk.js",
+  "main.js.map": "/ucalc/static/js/main.1fccf718.chunk.js.map",
   "runtime~main.js": "/ucalc/static/js/runtime~main.5d151564.js",
   "runtime~main.js.map": "/ucalc/static/js/runtime~main.5d151564.js.map",
   "static/css/2.856abb13.chunk.css": "/ucalc/static/css/2.856abb13.chunk.css",
   "static/js/2.1b3e6f6f.chunk.js": "/ucalc/static/js/2.1b3e6f6f.chunk.js",
   "static/js/2.1b3e6f6f.chunk.js.map": "/ucalc/static/js/2.1b3e6f6f.chunk.js.map",
   "index.html": "/ucalc/index.html",
-  "precache-manifest.13225c442ac72f5e38a210aa9038a68c.js": "/ucalc/precache-manifest.13225c442ac72f5e38a210aa9038a68c.js",
+  "precache-manifest.82811d7fe7633cf87ca7a2b0974ee808.js": "/ucalc/precache-manifest.82811d7fe7633cf87ca7a2b0974ee808.js",
   "service-worker.js": "/ucalc/service-worker.js",
   "static/css/2.856abb13.chunk.css.map": "/ucalc/static/css/2.856abb13.chunk.css.map"
 }
