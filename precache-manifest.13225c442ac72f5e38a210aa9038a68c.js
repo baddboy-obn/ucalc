@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ucalc/static/js/runtime~main.5d151564.js"
   },
   {
-    "revision": "33c24a28428081a7524b",
-    "url": "/ucalc/static/js/main.33c24a28.chunk.js"
+    "revision": "e35e5a6f4fff2fb5f974",
+    "url": "/ucalc/static/js/main.e35e5a6f.chunk.js"
   },
   {
     "revision": "1b3e6f6fd9b4f6f5ef52",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ucalc/static/css/2.856abb13.chunk.css"
   },
   {
-    "revision": "12b3865fb25d2cafb56befae93c7fbe9",
+    "revision": "920a304b6683ffd900960670f1bceb37",
     "url": "/ucalc/index.html"
   }
 ];
