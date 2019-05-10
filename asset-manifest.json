@@ -1,13 +1,13 @@
 {
-  "main.js": "/ucalc/static/js/main.522d2965.chunk.js",
-  "main.js.map": "/ucalc/static/js/main.522d2965.chunk.js.map",
+  "main.js": "/ucalc/static/js/main.9a6c5bc9.chunk.js",
+  "main.js.map": "/ucalc/static/js/main.9a6c5bc9.chunk.js.map",
   "runtime~main.js": "/ucalc/static/js/runtime~main.5d151564.js",
   "runtime~main.js.map": "/ucalc/static/js/runtime~main.5d151564.js.map",
   "static/css/2.856abb13.chunk.css": "/ucalc/static/css/2.856abb13.chunk.css",
-  "static/js/2.1b3e6f6f.chunk.js": "/ucalc/static/js/2.1b3e6f6f.chunk.js",
-  "static/js/2.1b3e6f6f.chunk.js.map": "/ucalc/static/js/2.1b3e6f6f.chunk.js.map",
+  "static/js/2.5553f5d9.chunk.js": "/ucalc/static/js/2.5553f5d9.chunk.js",
+  "static/js/2.5553f5d9.chunk.js.map": "/ucalc/static/js/2.5553f5d9.chunk.js.map",
   "index.html": "/ucalc/index.html",
-  "precache-manifest.e796f723bdd86fd89589c40c74eda1cd.js": "/ucalc/precache-manifest.e796f723bdd86fd89589c40c74eda1cd.js",
+  "precache-manifest.37dd96e0ec44e1063335fb8f8b90fdfa.js": "/ucalc/precache-manifest.37dd96e0ec44e1063335fb8f8b90fdfa.js",
   "service-worker.js": "/ucalc/service-worker.js",
   "static/css/2.856abb13.chunk.css.map": "/ucalc/static/css/2.856abb13.chunk.css.map"
 }
